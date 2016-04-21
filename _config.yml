@@ -1,6 +1,5 @@
 name: Command Line
 markdown: kramdown
 collections:
-  man_pages:
+  music:
     output: true
-    permalink: /man_pages/
