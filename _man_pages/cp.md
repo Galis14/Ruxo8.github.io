@@ -1,8 +1,8 @@
 ---
-title = "cp"
-description = "The cp command description and usage"
-keywords = ["copy, container, files, folders"]
-parent = "smn_cli"
+title: "cp"
+description: "The cp command description and usage"
+keywords: ["copy, container, files, folders"]
+parent: "smn_cli"
 ---
 
 # cp

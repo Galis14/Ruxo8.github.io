@@ -1,8 +1,8 @@
 ---
-title = "images"
-description = "The images command description and usage"
-keywords = ["list, docker, images"]
-parent = "smn_cli"
+title: "images"
+description: "The images command description and usage"
+keywords: ["list, docker, images"]
+parent: "smn_cli"
 ---
 
 # images

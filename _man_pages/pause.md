@@ -1,8 +1,8 @@
 ---
-title = "pause"
-description = "The pause command description and usage"
-keywords = ["cgroups, container, suspend, SIGSTOP"]
-parent = "smn_cli"
+title: "pause"
+description: "The pause command description and usage"
+keywords: ["cgroups, container, suspend, SIGSTOP"]
+parent: "smn_cli"
 ---
 
 # pause

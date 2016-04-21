@@ -1,8 +1,8 @@
 ---
-title = "port"
-description = "The port command description and usage"
-keywords = ["port, mapping, container"]
-parent = "smn_cli"
+title: "port"
+description: "The port command description and usage"
+keywords: ["port, mapping, container"]
+parent: "smn_cli"
 ---
 
 # port

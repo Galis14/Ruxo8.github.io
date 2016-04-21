@@ -1,8 +1,8 @@
 ---
-title = "create"
-description = "The create command description and usage"
-keywords = ["docker, create, container"]
-parent = "smn_cli"
+title: "create"
+description: "The create command description and usage"
+keywords: ["docker, create, container"]
+parent: "smn_cli"
 ---
 
 # create

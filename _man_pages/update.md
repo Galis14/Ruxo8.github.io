@@ -1,8 +1,8 @@
 ---
-title = "update"
-description = "The update command description and usage"
-keywords = ["resources, update, dynamically"]
-parent = "smn_cli"
+title: "update"
+description: "The update command description and usage"
+keywords: ["resources, update, dynamically"]
+parent: "smn_cli"
 ---
 
 ## update

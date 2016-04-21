@@ -1,8 +1,8 @@
 ---
-title = "export"
-description = "The export command description and usage"
-keywords = ["export, file, system, container"]
-parent = "smn_cli"
+title: "export"
+description: "The export command description and usage"
+keywords: ["export, file, system, container"]
+parent: "smn_cli"
 ---
 
 # export

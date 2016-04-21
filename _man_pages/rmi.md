@@ -1,8 +1,8 @@
 ---
-title = "rmi"
-description = "The rmi command description and usage"
-keywords = ["remove, image, Docker"]
-parent = "smn_cli"
+title: "rmi"
+description: "The rmi command description and usage"
+keywords: ["remove, image, Docker"]
+parent: "smn_cli"
 ---
 
 # rmi

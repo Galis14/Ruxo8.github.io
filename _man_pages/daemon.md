@@ -1,9 +1,9 @@
 ---
-title = "daemon"
-description = "The daemon command description and usage"
-keywords = ["container, daemon, runtime"]
-parent = "smn_cli"
-weight = -1
+title: "daemon"
+description: "The daemon command description and usage"
+keywords: ["container, daemon, runtime"]
+parent: "smn_cli"
+weight: -1
 ---
 
 # daemon

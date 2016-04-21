@@ -1,8 +1,8 @@
 ---
-title = "volume inspect"
-description = "The volume inspect command description and usage"
-keywords = ["volume, inspect"]
-parent = "smn_cli"
+title: "volume inspect"
+description: "The volume inspect command description and usage"
+keywords: ["volume, inspect"]
+parent: "smn_cli"
 ---
 
 # volume inspect

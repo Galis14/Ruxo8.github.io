@@ -1,8 +1,8 @@
 ---
-title = "pull"
-description = "The pull command description and usage"
-keywords = ["pull, image, hub, docker"]
-parent = "smn_cli"
+title: "pull"
+description: "The pull command description and usage"
+keywords: ["pull, image, hub, docker"]
+parent: "smn_cli"
 ---
 
 # pull

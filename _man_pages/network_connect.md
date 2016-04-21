@@ -1,8 +1,8 @@
 ---
-title = "network connect"
-description = "The network connect command description and usage"
-keywords = ["network, connect, user-defined"]
-parent = "smn_cli"
+title: "network connect"
+description: "The network connect command description and usage"
+keywords: ["network, connect, user-defined"]
+parent: "smn_cli"
 ---
 
 # network connect

@@ -1,8 +1,8 @@
 ---
-title = "inspect"
-description = "The inspect command description and usage"
-keywords = ["inspect, container, json"]
-parent = "smn_cli"
+title: "inspect"
+description: "The inspect command description and usage"
+keywords: ["inspect, container, json"]
+parent: "smn_cli"
 ---
 
 # inspect

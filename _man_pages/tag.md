@@ -1,8 +1,8 @@
 ---
-title = "tag"
-description = "The tag command description and usage"
-keywords = ["tag, name, image"]
-parent = "smn_cli"
+title: "tag"
+description: "The tag command description and usage"
+keywords: ["tag, name, image"]
+parent: "smn_cli"
 ---
 
 # tag

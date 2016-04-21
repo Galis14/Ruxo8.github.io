@@ -1,8 +1,8 @@
 ---
-title = "load"
-description = "The load command description and usage"
-keywords = ["stdin, tarred, repository"]
-parent = "smn_cli"
+title: "load"
+description: "The load command description and usage"
+keywords: ["stdin, tarred, repository"]
+parent: "smn_cli"
 ---
 
 # load

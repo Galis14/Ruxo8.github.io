@@ -1,8 +1,8 @@
 ---
-title = "logout"
-description = "The logout command description and usage"
-keywords = ["logout, docker, registry"]
-parent = "smn_cli"
+title: "logout"
+description: "The logout command description and usage"
+keywords: ["logout, docker, registry"]
+parent: "smn_cli"
 ---
 
 # logout

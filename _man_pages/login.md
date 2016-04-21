@@ -1,8 +1,8 @@
 ---
-title = "login"
-description = "The login command description and usage"
-keywords = ["registry, login, image"]
-parent = "smn_cli"
+title: "login"
+description: "The login command description and usage"
+keywords: ["registry, login, image"]
+parent: "smn_cli"
 ---
 
 # login

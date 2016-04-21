@@ -1,8 +1,8 @@
 ---
-title = "attach"
-description = "The attach command description and usage"
-keywords = ["attach, running, container"]
-parent = "smn_cli"
+title: "attach"
+description: "The attach command description and usage"
+keywords: ["attach, running, container"]
+parent: "smn_cli"
 ---
 
 # attach

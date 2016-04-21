@@ -1,8 +1,8 @@
 ---
-title = "kill"
-description = "The kill command description and usage"
-keywords = ["container, kill, signal"]
-parent = "smn_cli"
+title: "kill"
+description: "The kill command description and usage"
+keywords: ["container, kill, signal"]
+parent: "smn_cli"
 ---
 
 # kill

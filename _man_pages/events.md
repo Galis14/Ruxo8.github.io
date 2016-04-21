@@ -1,8 +1,8 @@
 ---
-title = "events"
-description = "The events command description and usage"
-keywords = ["events, container, report"]
-parent = "smn_cli"
+title: "events"
+description: "The events command description and usage"
+keywords: ["events, container, report"]
+parent: "smn_cli"
 ---
 
 # events

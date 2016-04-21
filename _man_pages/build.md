@@ -1,8 +1,8 @@
 ---
-title = "build"
-description = "The build command description and usage"
-keywords = ["build, docker, image"]
-parent = "smn_cli"
+title: "build"
+description: "The build command description and usage"
+keywords: ["build, docker, image"]
+parent: "smn_cli"
 ---
 
 # build
@@ -66,12 +66,12 @@ Build Syntax Suffix | Commit Used | Build Context Used
 `myrepo.git` | `refs/heads/master` | `/`
 `myrepo.git#mytag` | `refs/tags/mytag` | `/`
 `myrepo.git#mybranch` | `refs/heads/mybranch` | `/`
-`myrepo.git#abcdef` | `sha1 = abcdef` | `/`
+`myrepo.git#abcdef` | `sha1: abcdef` | `/`
 `myrepo.git#:myfolder` | `refs/heads/master` | `/myfolder`
 `myrepo.git#master:myfolder` | `refs/heads/master` | `/myfolder`
 `myrepo.git#mytag:myfolder` | `refs/tags/mytag` | `/myfolder`
 `myrepo.git#mybranch:myfolder` | `refs/heads/mybranch` | `/myfolder`
-`myrepo.git#abcdef:myfolder` | `sha1 = abcdef` | `/myfolder`
+`myrepo.git#abcdef:myfolder` | `sha1: abcdef` | `/myfolder`
 
 Instead of specifying a context, you can pass a single Dockerfile in the `URL`
 or pipe the file in via `STDIN`. To pipe a Dockerfile from `STDIN`:

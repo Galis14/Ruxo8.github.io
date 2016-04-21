@@ -1,8 +1,8 @@
 ---
-title = "rename"
-description = "The rename command description and usage"
-keywords = ["rename, docker, container"]
-parent = "smn_cli"
+title: "rename"
+description: "The rename command description and usage"
+keywords: ["rename, docker, container"]
+parent: "smn_cli"
 ---
 
 # rename

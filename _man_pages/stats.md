@@ -1,8 +1,8 @@
 ---
-title = "stats"
-description = "The stats command description and usage"
-keywords = ["container, resource, statistics"]
-parent = "smn_cli"
+title: "stats"
+description: "The stats command description and usage"
+keywords: ["container, resource, statistics"]
+parent: "smn_cli"
 ---
 
 # stats

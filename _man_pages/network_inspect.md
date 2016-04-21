@@ -1,8 +1,8 @@
 ---
-title = "network inspect"
-description = "The network inspect command description and usage"
-keywords = ["network, inspect, user-defined"]
-parent = "smn_cli"
+title: "network inspect"
+description: "The network inspect command description and usage"
+keywords: ["network, inspect, user-defined"]
+parent: "smn_cli"
 ---
 
 # network inspect

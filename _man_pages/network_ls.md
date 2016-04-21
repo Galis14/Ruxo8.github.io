@@ -1,8 +1,8 @@
 ---
-title = "network ls"
-description = "The network ls command description and usage"
-keywords = ["network, list, user-defined"]
-parent = "smn_cli"
+title: "network ls"
+description: "The network ls command description and usage"
+keywords: ["network, list, user-defined"]
+parent: "smn_cli"
 ---
 
 # docker network ls

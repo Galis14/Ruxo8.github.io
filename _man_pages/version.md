@@ -1,8 +1,8 @@
 ---
-title = "version"
-description = "The version command description and usage"
-keywords = ["version, architecture, api"]
-parent = "smn_cli"
+title: "version"
+description: "The version command description and usage"
+keywords: ["version, architecture, api"]
+parent: "smn_cli"
 ---
 
 # version

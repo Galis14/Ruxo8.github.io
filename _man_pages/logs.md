@@ -1,8 +1,8 @@
 ---
-title = "logs"
-description = "The logs command description and usage"
-keywords = ["logs, retrieve, docker"]
-parent = "smn_cli"
+title: "logs"
+description: "The logs command description and usage"
+keywords: ["logs, retrieve, docker"]
+parent: "smn_cli"
 ---
 
 # logs

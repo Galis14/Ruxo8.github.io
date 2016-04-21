@@ -1,8 +1,8 @@
 ---
-title = "search"
-description = "The search command description and usage"
-keywords = ["search, hub, images"]
-parent = "smn_cli"
+title: "search"
+description: "The search command description and usage"
+keywords: ["search, hub, images"]
+parent: "smn_cli"
 ---
 
 # search

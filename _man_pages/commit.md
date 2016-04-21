@@ -1,8 +1,8 @@
 ---
-title = "commit"
-description = "The commit command description and usage"
-keywords = ["commit, file, changes"]
-parent = "smn_cli"
+title: "commit"
+description: "The commit command description and usage"
+keywords: ["commit, file, changes"]
+parent: "smn_cli"
 ---
 
 # commit

@@ -1,8 +1,8 @@
 ---
-title = "ps"
-description = "The ps command description and usage"
-keywords = ["container, running, list"]
-parent = "smn_cli"
+title: "ps"
+description: "The ps command description and usage"
+keywords: ["container, running, list"]
+parent: "smn_cli"
 ---
 
 # ps

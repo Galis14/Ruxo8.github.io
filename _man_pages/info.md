@@ -1,8 +1,8 @@
 ---
-title = "info"
-description = "The info command description and usage"
-keywords = ["display, docker, information"]
-parent = "smn_cli"
+title: "info"
+description: "The info command description and usage"
+keywords: ["display, docker, information"]
+parent: "smn_cli"
 ---
 
 # info

@@ -1,8 +1,8 @@
 ---
-title = "push"
-description = "The push command description and usage"
-keywords = ["share, push, image"]
-parent = "smn_cli"
+title: "push"
+description: "The push command description and usage"
+keywords: ["share, push, image"]
+parent: "smn_cli"
 ---
 
 # push

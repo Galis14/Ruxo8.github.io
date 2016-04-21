@@ -1,8 +1,8 @@
 ---
-title = "volume create"
-description = "The volume create command description and usage"
-keywords = ["volume, create"]
-parent = "smn_cli"
+title: "volume create"
+description: "The volume create command description and usage"
+keywords: ["volume, create"]
+parent: "smn_cli"
 ---
 
 # volume create

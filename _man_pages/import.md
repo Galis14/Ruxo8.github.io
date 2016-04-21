@@ -1,8 +1,8 @@
 ---
-title = "import"
-description = "The import command description and usage"
-keywords = ["import, file, system, container"]
-parent = "smn_cli"
+title: "import"
+description: "The import command description and usage"
+keywords: ["import, file, system, container"]
+parent: "smn_cli"
 ---
 
 # import

@@ -1,8 +1,8 @@
 ---
-title = "top"
-description = "The top command description and usage"
-keywords = ["container, running, processes"]
-parent = "smn_cli"
+title: "top"
+description: "The top command description and usage"
+keywords: ["container, running, processes"]
+parent: "smn_cli"
 ---
 
 # top
