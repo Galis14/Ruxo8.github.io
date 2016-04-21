@@ -1,2 +1,4 @@
 name: Command Line
 markdown: kramdown
+collections:
+- man_pages
