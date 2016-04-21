@@ -5,4 +5,9 @@ title: Hank Quinlan, Horrible Cop
 <div class="blurb">
   <h1>Hi! I'm Sergi Ruiz</h1>
   <p>This is a web containing a collection of man pages</p>
+  {% for page in site.man_pages limit:3 %}
+      <li>
+        <a href="{{ man_pages.url }}">{{ man_pages.title }}</a>
+      </li>
+{% endfor %}
 </div><!-- /.blurb -->
