@@ -3,6 +3,7 @@ title: "build"
 description: "The build command description and usage"
 keywords: ["build, docker, image"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # build

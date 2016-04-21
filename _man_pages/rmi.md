@@ -3,6 +3,7 @@ title: "rmi"
 description: "The rmi command description and usage"
 keywords: ["remove, image, Docker"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # rmi

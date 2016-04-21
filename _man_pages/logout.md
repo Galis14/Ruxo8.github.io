@@ -3,6 +3,7 @@ title: "logout"
 description: "The logout command description and usage"
 keywords: ["logout, docker, registry"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # logout

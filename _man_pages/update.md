@@ -3,6 +3,7 @@ title: "update"
 description: "The update command description and usage"
 keywords: ["resources, update, dynamically"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 ## update

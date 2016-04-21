@@ -3,6 +3,7 @@ title: "search"
 description: "The search command description and usage"
 keywords: ["search, hub, images"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # search

@@ -3,6 +3,7 @@ title: "history"
 description: "The history command description and usage"
 keywords: ["docker, image, history"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # history

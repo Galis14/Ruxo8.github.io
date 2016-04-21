@@ -3,6 +3,7 @@ title: "volume inspect"
 description: "The volume inspect command description and usage"
 keywords: ["volume, inspect"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # volume inspect

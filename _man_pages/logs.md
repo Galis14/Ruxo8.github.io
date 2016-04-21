@@ -3,6 +3,7 @@ title: "logs"
 description: "The logs command description and usage"
 keywords: ["logs, retrieve, docker"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # logs

@@ -3,6 +3,7 @@ title: "exec"
 description: "The exec command description and usage"
 keywords: ["command, container, run, execute"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # exec

@@ -4,6 +4,7 @@ description: "The daemon command description and usage"
 keywords: ["container, daemon, runtime"]
 parent: "smn_cli"
 weight: -1
+layout: man_pages
 ---
 
 # daemon

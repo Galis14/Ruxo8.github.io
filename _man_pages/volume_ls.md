@@ -3,6 +3,7 @@ title: "volume ls"
 description: "The volume ls command description and usage"
 keywords: ["volume, list"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # volume ls

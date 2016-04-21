@@ -3,6 +3,7 @@ title: "run"
 description: "The run command description and usage"
 keywords: ["run, command, container"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # run

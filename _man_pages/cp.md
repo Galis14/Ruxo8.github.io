@@ -3,6 +3,7 @@ title: "cp"
 description: "The cp command description and usage"
 keywords: ["copy, container, files, folders"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # cp

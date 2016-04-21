@@ -3,6 +3,7 @@ title: "commit"
 description: "The commit command description and usage"
 keywords: ["commit, file, changes"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # commit

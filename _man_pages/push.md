@@ -3,6 +3,7 @@ title: "push"
 description: "The push command description and usage"
 keywords: ["share, push, image"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # push

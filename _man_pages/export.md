@@ -3,6 +3,7 @@ title: "export"
 description: "The export command description and usage"
 keywords: ["export, file, system, container"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # export

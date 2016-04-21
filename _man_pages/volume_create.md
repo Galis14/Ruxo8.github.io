@@ -3,6 +3,7 @@ title: "volume create"
 description: "The volume create command description and usage"
 keywords: ["volume, create"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # volume create

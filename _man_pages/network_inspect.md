@@ -3,6 +3,7 @@ title: "network inspect"
 description: "The network inspect command description and usage"
 keywords: ["network, inspect, user-defined"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # network inspect

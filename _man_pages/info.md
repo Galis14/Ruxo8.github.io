@@ -3,6 +3,7 @@ title: "info"
 description: "The info command description and usage"
 keywords: ["display, docker, information"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # info

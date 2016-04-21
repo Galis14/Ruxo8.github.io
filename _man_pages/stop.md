@@ -3,6 +3,7 @@ title: "stop"
 description: "The stop command description and usage"
 keywords: ["stop, SIGKILL, SIGTERM"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # stop

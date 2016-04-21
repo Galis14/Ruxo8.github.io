@@ -3,6 +3,7 @@ title: "import"
 description: "The import command description and usage"
 keywords: ["import, file, system, container"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # import

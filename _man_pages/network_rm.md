@@ -3,6 +3,7 @@ title: "network rm"
 description: "the network rm command description and usage"
 keywords: ["network, rm, user-defined"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # network rm

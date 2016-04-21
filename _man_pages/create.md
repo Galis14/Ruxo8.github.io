@@ -3,6 +3,7 @@ title: "create"
 description: "The create command description and usage"
 keywords: ["docker, create, container"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # create

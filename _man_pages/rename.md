@@ -3,6 +3,7 @@ title: "rename"
 description: "The rename command description and usage"
 keywords: ["rename, docker, container"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # rename

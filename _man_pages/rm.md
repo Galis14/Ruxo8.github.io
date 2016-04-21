@@ -3,6 +3,7 @@ title: "rm"
 description: "The rm command description and usage"
 keywords: ["remove, Docker, container"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # rm

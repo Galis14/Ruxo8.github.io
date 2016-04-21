@@ -3,6 +3,7 @@ title: "inspect"
 description: "The inspect command description and usage"
 keywords: ["inspect, container, json"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # inspect

@@ -3,6 +3,7 @@ title: "diff"
 description: "The diff command description and usage"
 keywords: ["list, changed, files, container"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # diff

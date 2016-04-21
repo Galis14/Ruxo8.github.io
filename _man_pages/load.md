@@ -3,6 +3,7 @@ title: "load"
 description: "The load command description and usage"
 keywords: ["stdin, tarred, repository"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # load

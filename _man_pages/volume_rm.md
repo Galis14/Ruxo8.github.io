@@ -3,6 +3,7 @@ title: "volume rm"
 description: "the volume rm command description and usage"
 keywords: ["volume, rm"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # volume rm

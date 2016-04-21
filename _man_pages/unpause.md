@@ -3,6 +3,7 @@ title: "unpause"
 description: "The unpause command description and usage"
 keywords: ["cgroups, suspend, container"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # unpause

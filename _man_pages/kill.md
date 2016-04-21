@@ -3,6 +3,7 @@ title: "kill"
 description: "The kill command description and usage"
 keywords: ["container, kill, signal"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # kill

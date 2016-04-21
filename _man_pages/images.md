@@ -3,6 +3,7 @@ title: "images"
 description: "The images command description and usage"
 keywords: ["list, docker, images"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # images

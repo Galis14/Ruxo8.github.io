@@ -3,6 +3,7 @@ title: "tag"
 description: "The tag command description and usage"
 keywords: ["tag, name, image"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # tag

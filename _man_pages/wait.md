@@ -3,6 +3,7 @@ title: "wait"
 description: "The wait command description and usage"
 keywords: ["container, stop, wait"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # wait

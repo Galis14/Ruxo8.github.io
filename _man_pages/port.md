@@ -3,6 +3,7 @@ title: "port"
 description: "The port command description and usage"
 keywords: ["port, mapping, container"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # port

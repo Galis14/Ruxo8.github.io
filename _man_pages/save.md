@@ -3,6 +3,7 @@ title: "save"
 description: "The save command description and usage"
 keywords: ["tarred, repository, backup"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # save

@@ -3,6 +3,7 @@ title: "network connect"
 description: "The network connect command description and usage"
 keywords: ["network, connect, user-defined"]
 parent: "smn_cli"
+layout: man_pages
 ---
 
 # network connect
