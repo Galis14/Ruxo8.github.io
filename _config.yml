@@ -1,4 +1,5 @@
 name: Command Line
 markdown: kramdown
 collections:
-- man_pages
+  man_pages:
+  output: true
