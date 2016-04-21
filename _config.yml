@@ -3,3 +3,4 @@ markdown: kramdown
 collections:
   man_pages:
     output: true
+    permalink: /manpages/
